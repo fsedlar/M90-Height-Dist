@@ -1,0 +1,3 @@
+1; www.dataquest.ioblognumpy-tutorial-python ; finished
+2; https://www.dataquest.io/blog/pandas-python-tutorial/; finished
+3; https://github.com/rougier/numpy-tutorial; finished
